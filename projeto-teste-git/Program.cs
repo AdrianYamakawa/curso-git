@@ -11,6 +11,7 @@ namespace projeto_teste_git
         static void Main(string[] args)
         {
             Console.WriteLine("Daew BRO!");
+            Console.WriteLine("teste");
 
             Console.ReadLine();
         }
